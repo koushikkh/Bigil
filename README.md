@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗙𝗜𝗟𝗘+𝗦𝗛𝗔𝗥𝗜𝗡𝗚+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗣𝗕+𝗔𝗝𝗔𝗬;)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/20d0ceb05bcfb1a793f5f.jpg" alt="BIGIL LOGO">
+  <img src="https://telegra.ph/file/20d0ceb05bcfb1a793f5f.jpg" alt="BIGIL BOT LOGO">
 </p>
 <h1 align="center">
   <b> 𝙵𝚒𝚕𝚎 𝚂𝚑𝚊𝚛𝚒𝚗𝚐 𝙱𝚘𝚝</b>
