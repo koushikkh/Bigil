@@ -1,5 +1,3 @@
-#(©)Codexbotz
-
 import pyromod.listen
 from pyrogram import Client
 from pyrogram.enums import ParseMode
